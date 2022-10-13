@@ -1,15 +1,15 @@
 {
-  // Visuals
+  // 视觉效果
   "workbench.colorTheme": "Vitesse Dark",
   "workbench.preferredDarkColorTheme": "Vitesse Dark",
   "workbench.preferredLightColorTheme": "Vitesse Light",
   "workbench.productIconTheme": "icons-carbon",
   "workbench.iconTheme": "file-icons",
   "workbench.fontAliasing": "antialiased",
-  "editor.fontFamily": "Input Mono, Fira Code, monospace",
+  "editor.fontFamily": "JetBrains Mono, Input Mono, Fira Code, monospace",
   "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
 
-  // Editor
+  // 编辑器
   "editor.accessibilitySupport": "off",
   "editor.cursorSmoothCaretAnimation": true,
   "editor.find.addExtraSpaceOnTop": false,
